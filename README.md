@@ -1,2 +1,2 @@
 # Coresets-Tests
-A new method to test your coresets
+This repository contains a new method to test your coreset, using backpropagation. 
