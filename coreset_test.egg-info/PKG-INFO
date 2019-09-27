@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: coreset_test
+Name: coreset-test
 Version: 0.0.1
 Summary: A method for testing coresets using backpropagation
 Home-page: https://github.com/BenMussay/Coresets-Tests
@@ -8,6 +8,11 @@ Author-email: bengordoncshaifa@gmail.com
 License: UNKNOWN
 Description: # Coresets-Tests
         This repository contains a new method to test your coreset, using backpropagation. 
+        
+        ### Install
+        ```
+        pip install git+https://github.com/BenMussay/Coresets-Tests/
+        ```
         
         ## Citations
         
