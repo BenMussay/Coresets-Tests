@@ -2,6 +2,7 @@
   <dictionary name="ben">
     <words>
       <w>backpropagation</w>
+      <w>coreset</w>
       <w>coresets</w>
       <w>mussay</w>
     </words>

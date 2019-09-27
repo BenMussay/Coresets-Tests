@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Coresets-Tests",
+    name="coreset_test",
     version="0.0.1",
     author="Ben Mussay",
     author_email="bengordoncshaifa@gmail.com",

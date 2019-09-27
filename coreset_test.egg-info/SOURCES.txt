@@ -1,0 +1,6 @@
+README.md
+setup.py
+coreset_test.egg-info/PKG-INFO
+coreset_test.egg-info/SOURCES.txt
+coreset_test.egg-info/dependency_links.txt
+coreset_test.egg-info/top_level.txt
