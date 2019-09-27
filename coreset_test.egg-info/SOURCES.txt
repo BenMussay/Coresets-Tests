@@ -1,4 +1,6 @@
 README.md
+__init__.py
+coreset_test.py
 setup.py
 coreset_test.egg-info/PKG-INFO
 coreset_test.egg-info/SOURCES.txt
